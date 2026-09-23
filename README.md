@@ -7,7 +7,7 @@ which is what makes geometry optimizations and other step-heavy jobs practical.
 
 Supported models: MACE (OFF23 / OFF24 / OMol / Polar), DPA2-drug / DPA3 / DPA4,
 AIMNet2, ANI-1x / 1ccx / 2x, OrbMol / OrbMolv2, GFN2-xTB / gxTB, AIQM3,
-ANI-2x-D4, and add any models you like.
+ANI-2x-D4, and any models you like.
 
 ![Gaussian 16 × MLIP server architecture](png/GaussianMLIP.png)
 
